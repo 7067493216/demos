@@ -1,0 +1,68 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    margin-left: 2rem;
+}
+
+li{
+    list-style: none;
+    margin-left: 2rem;
+    padding-top: 8px;
+    font-size: 1.3rem;
+}
+.navbar>nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.skills{
+    display: flex;
+    flex: 1;
+    
+}
+.skills>div{
+    text-align: center;
+    margin: 2rem;
+}
+.skills>div>p{
+    padding: 2rem;
+}
+ul{
+    display: flex;
+    font-size: 25px;
+    
+    
+}
+img[src="https://github.com/goelabhishek694/learnMERN/blob/main/html/website/images/lap.jpeg?raw=true"]{
+    height: 100vh;
+    width: 95vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.footer{
+    height: 120px;
+    background-color: black;
+    color: crimson;
+    text-align: center;
+}
+.footer>p{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: black;
+}
+
+a:hover{
+    color: crimson;
+}
+
+
+
+
